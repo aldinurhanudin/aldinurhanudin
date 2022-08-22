@@ -37,3 +37,42 @@
     <a href="https://github.com/aldinurhanudin/aldinurhanudin"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
+
+
+<details>
+  <summary><b>📊 My Programming Stats</b></summary>
+  
+  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%207%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉(nocturnal)** 
+
+```text
+🌞 Morning    117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+🌆 Daytime    451 commits    ███████░░░░░░░░░░░░░░░░░░   30.19% 
+🌃 Evening    416 commits    ███████░░░░░░░░░░░░░░░░░░   27.84% 
+🌙 Night      510 commits    ████████░░░░░░░░░░░░░░░░░   34.14%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     24 hrs 29 mins      ███████████████░░░░░░░░░░   60.2% 
+Php                      10 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+HTML                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+C                        1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+CSS                      1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
+
+```
+
+
+ Last Updated on 22/08/2022 21:01:31 UTC
+<!--END_SECTION:waka-->
+  
+</details>
+
